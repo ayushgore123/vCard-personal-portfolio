@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = siddhi adhav
+siddhi k addhav
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+adhavsiddhi770@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 9359471011
 
 Birthday
-June 23, 1982
+march 13 2005
 
 Location
-Sacramento, California, USA
+nashik india 
 
 # navbar
 
